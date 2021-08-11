@@ -1,10 +1,14 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brsmsg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brsmsg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brsmsg&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brsmsg&show_icons=true&theme=dark&hide=contribs,prs)
 
+- 🔭 I’m currently working on Typescript, React.js, Vue.js
+- 🌱 I’m currently learning algorithm, React, webpack, node.js ...
+- 🤔 I'm interested in and planning to learn Compiler, V8 engine, Vite, Svelte.js ...
+- 📫 How to reach me: 2076706661@qq.com / kangbaihan1999@163.com
+- ⚡ My favorite language: JavaScript (×) => Python (✓)
 
 <!--
 **brsmsg/brsmsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
