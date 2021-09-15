@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning algorithm, React, webpack, node.js ...
 - 🤔 I'm interested in and planning to learn Compiler, Rust, Vite, Svelte.js ...
 - 📫 How to reach me: 2076706661@qq.com / kangbaihan1999@163.com
-- ⚡ My favorite language: JavaScript (×)
+- ⚡ My favorite language: JavaScript (不是)
 
 <!--
 **brsmsg/brsmsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
