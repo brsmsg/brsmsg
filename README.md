@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on Koa.js, React.js, Vue.js ...
 - 🌱 I’m currently learning Rust, Vite ...
 - 🤔 I'm interested in and planning to learn Compiler, OS, Graphics, Distributed Systems ...
-- 📫 How to reach me: 2076706661@qq.com / kangbaihan1999@163.com
-- ⚡ My favorite language: isWorking ? TypeScript : Rust
+- 📫 How to reach me: 2076706661@qq.com
+- ⚡ My favorite language: TypeScript
 
 <!--
 **brsmsg/brsmsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
